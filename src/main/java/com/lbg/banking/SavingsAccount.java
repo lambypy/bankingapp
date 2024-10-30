@@ -1,8 +1,8 @@
 package com.lbg.banking;
 
-public class CurrentAccount {
+public class SavingsAccount {
 
-    public CurrentAccount(){};
+    public SavingsAccount(){};
 
     @Override
     public String toString() {
